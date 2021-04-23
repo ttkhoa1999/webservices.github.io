@@ -1,0 +1,23 @@
+﻿[
+    { 
+        "name": "Khoa", 
+        "age": 22, 
+        "mark": 8 
+    },
+    { 
+        "name": "Cường", 
+        "age": 22, 
+        "mark": 7
+    },
+    { 
+        "name": "Nam", 
+        "age": 22, 
+        "mark": 7
+    },
+    { 
+        "name": "Chính", 
+        "age": 22, 
+        "mark": 5
+    }
+    
+]
